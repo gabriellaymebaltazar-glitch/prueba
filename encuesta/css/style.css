@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f2f2f2;
+}
+
+form{
+    width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.pregunta{
+    margin-bottom: 15px;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
